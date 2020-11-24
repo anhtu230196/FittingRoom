@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FittingRoom/static/css/main.471b02a4.chunk.css",
+    "main.js": "/FittingRoom/static/js/main.9569aeeb.chunk.js",
+    "main.js.map": "/FittingRoom/static/js/main.9569aeeb.chunk.js.map",
+    "runtime-main.js": "/FittingRoom/static/js/runtime-main.220538e2.js",
+    "runtime-main.js.map": "/FittingRoom/static/js/runtime-main.220538e2.js.map",
+    "static/js/2.48cf5abc.chunk.js": "/FittingRoom/static/js/2.48cf5abc.chunk.js",
+    "static/js/2.48cf5abc.chunk.js.map": "/FittingRoom/static/js/2.48cf5abc.chunk.js.map",
+    "static/js/3.4eace445.chunk.js": "/FittingRoom/static/js/3.4eace445.chunk.js",
+    "static/js/3.4eace445.chunk.js.map": "/FittingRoom/static/js/3.4eace445.chunk.js.map",
+    "index.html": "/FittingRoom/index.html",
+    "static/css/main.471b02a4.chunk.css.map": "/FittingRoom/static/css/main.471b02a4.chunk.css.map",
+    "static/js/2.48cf5abc.chunk.js.LICENSE.txt": "/FittingRoom/static/js/2.48cf5abc.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/FittingRoom/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.220538e2.js",
+    "static/js/2.48cf5abc.chunk.js",
+    "static/css/main.471b02a4.chunk.css",
+    "static/js/main.9569aeeb.chunk.js"
+  ]
+}
